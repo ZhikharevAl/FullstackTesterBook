@@ -1,0 +1,19 @@
+{
+
+  "request": {
+
+    "method": "POST",
+
+    "url": "/makePayment"
+
+  },
+
+  "response": {
+
+    "status": 200,
+
+    "body": "Payment Successful"
+
+  }
+
+}

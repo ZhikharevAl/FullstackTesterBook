@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/mappings/new"
+  },
+  "response": {
+    "status": 401,
+    "body": "Payment Unauthorized"
+  }
+}
